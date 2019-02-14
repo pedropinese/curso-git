@@ -1,0 +1,12 @@
+C:\Users\pedro.pinese\Desktop\Teste_VS_Console\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\pedro.pinese\Desktop\Teste_VS_Console\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\pedro.pinese\Desktop\Teste_VS_Console\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\pedro.pinese\Desktop\Teste_VS_Console\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\pedro.pinese\Desktop\Teste_VS_Console\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\pedro.pinese\Desktop\Teste_VS_Console\Banco\Banco\obj\Debug\Banco.pdb
+C:\Users\pedro.pinese\Desktop\Pedro\C#\Teste_VS_Console\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\pedro.pinese\Desktop\Pedro\C#\Teste_VS_Console\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\pedro.pinese\Desktop\Pedro\C#\Teste_VS_Console\Banco\Banco\obj\Debug\Banco.pdb
+C:\Users\pedro.pinese\Desktop\Pedro\C#\Teste_VS_Console\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\pedro.pinese\Desktop\Pedro\C#\Teste_VS_Console\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\pedro.pinese\Desktop\Pedro\C#\Teste_VS_Console\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
